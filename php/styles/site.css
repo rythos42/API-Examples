@@ -6,3 +6,13 @@ tr:first-child { font-weight: bold; background-color: #CCCCFA; }
 tr:hover { background-color: #FAFACC; }
 td { padding: 4px 10px; }
 p { margin-top: 10px; margin-bottom: 10px; }
+
+.input-field {
+	width: 400px;
+}
+
+.input-field label {
+	display: inline-block;
+	width: 150px;
+	text-align: right;
+}
